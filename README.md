@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" alt="Coding gif">
 </p>
 
-<h1 align="center">🖤 Arthur Fortunato</h1>
+<h1 align="center">🧑‍💻 Arthur Fortunato</h1>
 
 <p align="center">
   <strong>Backend Developer</strong> • <strong>API Integrator</strong> • <strong>Automation Enthusiast</strong><br>
@@ -21,7 +21,7 @@ E quando o assunto é front... bom, deixo a IA brilhar... Às vezes ela dá a lo
 
 ---
 
-### 🧰 Principais Tecnologias
+### 💻 Principais Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -42,7 +42,7 @@ E quando o assunto é front... bom, deixo a IA brilhar... Às vezes ela dá a lo
 
 ### 🚀 Projetos em Destaque
 
-| 💡 Projeto | 🔍 Descrição | 🧱 Tecnologias |
+| 💡 Projeto | 🔍 Descrição | 💻 Tecnologias |
 |-------------|-------------|----------------|
 | [**template_serasa_pefin**](https://github.com/ArthurFortunato/template_serasa_pefin) | Integração completa com a API PEFIN da Serasa — inclusão, exclusão e retorno de dívidas automatizados. | Django, Requests, MySQL |
 | [**template_serasa_limpanome**](https://github.com/ArthurFortunato/template_serasa_limpanome) | Comunicação direta com o Limpa Nome (LNOP), com endpoints, webhooks e controle de status. | Django, REST, JSON |
