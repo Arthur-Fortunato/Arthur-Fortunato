@@ -79,9 +79,3 @@ Gosto de escrever código que eu consiga entender **um mês depois**, e que qual
     <img src="https://img.shields.io/badge/-Gmail-8B0000?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArthurFortunato&color=grey&style=flat-square" alt="Profile views"/>
-</p>
