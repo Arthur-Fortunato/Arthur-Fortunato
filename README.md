@@ -44,12 +44,12 @@ E quando o assunto é front... bom, deixo a IA brilhar... Às vezes ela dá a lo
 
 | 💡 Projeto | 🔍 Descrição | 💻 Tecnologias |
 |-------------|-------------|----------------|
-| [**template_serasa_pefin**](https://github.com/ArthurFortunato/template_serasa_pefin) | Integração completa com a API PEFIN da Serasa — inclusão, exclusão e retorno de dívidas automatizados. | Django, Requests, MySQL |
-| [**template_serasa_limpanome**](https://github.com/ArthurFortunato/template_serasa_limpanome) | Comunicação direta com o Limpa Nome (LNOP), com endpoints, webhooks e controle de status. | Django, REST, JSON |
-| [**springboot-produtos-api**](https://github.com/ArthurFortunato/springboot-produtos-api) | API REST em Java com arquitetura limpa e validação robusta. | Java, Spring Boot, JPA |
-| [**Projeto_doacao (Apoia+)**](https://github.com/ArthurFortunato/Projeto_doacao) | Plataforma de doações essenciais, conectando doadores e instituições. | Django, HTML/CSS/JS |
-| [**clean-code-crud-java**](https://github.com/ArthurFortunato/clean-code-crud-java) | CRUD em Java refatorado com foco em boas práticas e legibilidade. | Java |
-| [**CRUD-CSharp**](https://github.com/ArthurFortunato/CRUD-CSharp) | CRUD em C# básico, direto e claro — porque o simples funciona. | C# |
+| [**template_serasa_pefin**](https://github.com/Arthur-Fortunato/template_serasa_pefin) | Integração completa com a API PEFIN da Serasa — inclusão, exclusão e retorno de dívidas automatizados. | Django, Requests, MySQL |
+| [**template_serasa_limpanome**](https://github.com/Arthur-Fortunato/template_serasa_limpanome) | Comunicação direta com o Limpa Nome (LNOP), com endpoints, webhooks e controle de status. | Django, REST, JSON |
+| [**springboot-produtos-api**](https://github.com/Arthur-Fortunato/springboot-produtos-api) | API REST em Java com arquitetura limpa e validação robusta. | Java, Spring Boot, JPA |
+| [**Projeto_doacao (Apoia+)**](https://github.com/Arthur-Fortunato/Projeto_doacao) | Plataforma de doações essenciais, conectando doadores e instituições. | Django, HTML/CSS/JS |
+| [**clean-code-crud-java**](https://github.com/Arthur-Fortunato/clean-code-crud-java) | CRUD em Java refatorado com foco em boas práticas e legibilidade. | Java |
+| [**CRUD-CSharp**](https://github.com/Arthur-Fortunato/CRUD-CSharp) | CRUD em C# básico, direto e claro | C# |
 
 ---
 
