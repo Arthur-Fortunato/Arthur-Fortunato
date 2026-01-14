@@ -17,7 +17,7 @@ Sou um desenvolvedor focado em **backend** e **integrações**.
 Gosto de criar soluções sólidas, seguras e escaláveis, da modelagem de dados até o deploy.  
 
 Não sou designer, mas valorizo a **organização, clareza e fluidez** em tudo que escrevo... inclusive código 😅.  
-E quando o assunto é front... bom, deixo a IA brilhar... Às vezes ela dá a louca e eu boto a mão na massa ✨
+E quando o assunto é front... bom, deixo a IA brilhar... Às vezes ela dá a louca e eu boto a mão na massa 😎
 
 ---
 
