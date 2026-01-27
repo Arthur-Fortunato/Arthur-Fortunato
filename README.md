@@ -36,8 +36,7 @@ E quando o assunto é front... bom, deixo a IA brilhar... Às vezes ela dá a lo
 </p>
 
 🧩 Outras ferramentas que me acompanham:  
-`Git` • `REST APIs` • `Requests` • `SQL puro`
-
+`Git` • `REST APIs` • `Requests`
 ---
 
 ### 🚀 Projetos em Destaque
