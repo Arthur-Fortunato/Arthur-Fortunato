@@ -37,6 +37,7 @@ E quando o assunto é front... bom, deixo a IA brilhar... Às vezes ela dá a lo
 
 🧩 Outras ferramentas que me acompanham:  
 <p>Git • REST APIs • Requests • SQL puro</p>
+
 ---
 
 ### 🚀 Projetos em Destaque
@@ -45,9 +46,9 @@ E quando o assunto é front... bom, deixo a IA brilhar... Às vezes ela dá a lo
 |-------------|-------------|----------------|
 | [**template_serasa_pefin**](https://github.com/Arthur-Fortunato/template_serasa_pefin) | Integração completa com a API PEFIN da Serasa: inclusão, exclusão e retorno de dívidas automatizados. | Django, Requests, MySQL |
 | [**template_serasa_limpanome**](https://github.com/Arthur-Fortunato/template_serasa_limpanome) | Comunicação direta com o Limpa Nome (LNOP), com endpoints, webhooks e controle de status. | Django, REST, JSON |
-| [**springboot-produtos-api**](https://github.com/Arthur-Fortunato/springboot-produtos-api) | API REST em Java com arquitetura limpa e validação robusta. | Java, Spring Boot, JPA |
+| [**springboot-produtos-api**](https://github.com/Arthur-Fortunato/springboot-produtos-api) | API REST em Java com arquitetura limpa e validação robusta(simples). | Java, Spring Boot, JPA |
+| [**employee-management-api-springboot**](https://github.com/Arthur-Fortunato/employee-management-api-springboot) | API de gerenciamento de funcionários(mais completo). | Java, Spring Boot, JPA |
 | [**Projeto_doacao (Apoia+)**](https://github.com/Arthur-Fortunato/Projeto_doacao) | Plataforma de doações essenciais, conectando doadores e instituições. | Django, HTML/CSS/JS |
-| [**employee-management-api-springboot**](https://github.com/Arthur-Fortunato/employee-management-api-springboot) | API de gerenciamento de funcionários. | Java |
 | [**CRUD-CSharp**](https://github.com/Arthur-Fortunato/CRUD-CSharp) | CRUD em C# básico, direto e claro | C# |
 
 ---
