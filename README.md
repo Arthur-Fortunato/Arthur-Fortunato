@@ -33,10 +33,9 @@ E quando o assunto é front... bom, deixo a IA brilhar... Às vezes ela dá a lo
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-🧩 Outras ferramentas que me acompanham:  
-<p>Git • REST APIs • Requests • SQL puro</p>
 
 ---
 
@@ -55,7 +54,7 @@ E quando o assunto é front... bom, deixo a IA brilhar... Às vezes ela dá a lo
 
 ### 🧠 Filosofia de Código
 
-> "Codar é tipo jogar Dark Souls: a gente vive apanhando, mas quando funciona, é a maior alegria."  
+> "Codar é tipo jogar Dark Souls: a gente vive apanhando, mas depois que aprende, só vitória... Até chegar o próximo chefão 🫤"
 
 Gosto de escrever código que eu consiga entender **um mês depois**, e que qualquer outra pessoa possa dar manutenção sem sofrer.
 
